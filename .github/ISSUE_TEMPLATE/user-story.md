@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**As a** 
+**As** 
  **I need** 
  **So that** 
    
